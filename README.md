@@ -2,9 +2,9 @@
 
 ## Description 
 The app shows the location on the map of each property listed. 
-..* React to create a SPA.
-..* Bootstrap to build a responsive web design (1440px, 1024px, 768px & 425px).
-..* Axios to make HTTP requests.
+* React to create a SPA.
+* Bootstrap to build a responsive web design (1440px, 1024px, 768px & 425px).
+* Axios to make HTTP requests.
 
 ## Image
 
