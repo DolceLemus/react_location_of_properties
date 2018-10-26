@@ -1,0 +1,14 @@
+nav{
+  background: rgb(13, 98, 167);
+  height: 12vh;
+}
+
+@media (max-width: 425px)  {
+  .logo{
+      width: 80%;
+      margin: 0 !important;
+  }
+  nav{
+    height: 16vh;
+  }
+}

@@ -1,0 +1,56 @@
+.item{
+    height: 8em;
+}
+
+@media (max-width: 1440px) and (min-width: 1025px) {
+    .ubication{
+        font-size: 16px;
+    }
+    .description{
+        font-size: 21px;
+    }
+    .price{
+        font-size: 22px;
+    }
+    .item{
+        width: 36em;
+        height: 10em;
+    }
+  }
+
+@media (max-width: 1024px) and (min-width: 426px) {
+    .ubication{
+        font-size: 12px;
+    }
+    .description{
+        font-size: 17px;
+    }
+    .price{
+        font-size: 17px;
+    }
+  }
+
+  @media (max-width: 768px) and (min-width: 426px) {
+    .description{
+        font-size: 11.5px;
+    }
+    .gm-style-iw{
+        width: 22em !important;
+
+    }
+    .info-window{
+        width: 27em !important; 
+    }
+    .item{
+        width: 23em;
+    }
+  }
+
+  @media (max-width: 425px) {
+    .description{
+        font-size: 14px;
+    }
+    .ubication{
+        font-size: 11px;
+    }
+  }
